@@ -1,0 +1,57 @@
+[
+    {
+        name: 'Tourism attraction',
+        thumb: 'Tattract.png',
+        url: 'dot_tourattract',
+        tooltip: '',
+		isWms:true	
+    },	
+	 	
+	{
+        name: 'Hotels',
+        thumb: 'lodging.png',
+        url: 'hotel',
+        tooltip: 'Powered by Google Places API',
+		isWms:false	
+    },	
+	
+	{
+        name: 'Schools',
+        thumb: 'school.png',
+        url: 'depedpublices_updated_052014',
+        tooltip: '',
+		isWms:true	
+    },		
+	{
+        name: 'National airport',
+        thumb: 'airport.png',
+        url: 'dotc_nationalairports',
+        tooltip: '',
+		isWms:true	
+    },
+	{
+        name: 'Nautical port',
+        thumb: 'nauticalport.png',
+        url: 'dpwh_nauticalport',
+        tooltip: '',
+		isWms:true	
+    },			
+	{
+        name: 'Bus Stations',
+        thumb: 'bus.png',
+        url: 'bus station',
+        tooltip: 'Powered by Google Places API',
+		isWms:false
+    },		
+	{
+        name: 'Hospital and Health<br>Center (DOH)',
+        thumb: 'hospital.png',
+        url: 'doh_hf',
+        tooltip: '',
+		isWms:true	
+    },	
+]
+
+
+
+
